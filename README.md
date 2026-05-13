@@ -2,7 +2,7 @@
 
 > The official website for **LouM**, a blonde pop singer with Russian roots. Dark, elegant, fully responsive.
 
-🌐 **Live site:** [lbruno086.github.io/Website---singer](https://lbruno086.github.io/Website---singer)
+🌐 **Live site:** [lbruno086.github.io/LouM](https://lbruno086.github.io/LouM)
 
 ---
 
